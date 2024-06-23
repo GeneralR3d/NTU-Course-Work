@@ -1,0 +1,13 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/lab4/seg2digit_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module seg2digit
+INFO: [VRFC 10-311] analyzing module OBUF
+INFO: [VRFC 10-311] analyzing module OBUF
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'OBUF' [G:/lab4/seg2digit_synth.v:176]
+INFO: [VRFC 10-311] analyzing module MUXF7
+INFO: [VRFC 10-311] analyzing module LUT6
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/lab4/vsevenseg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vsevenseg
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/lab4/vsevenseg_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vsevenseg_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/lab4/lab4.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

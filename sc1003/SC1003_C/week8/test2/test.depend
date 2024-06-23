@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1681966287 source:c:\users\tdrdi\desktop\ubuntu\ntu\sc1003_c\week8\test\main.c
+	<stdio.h>
+	<stdlib.h>
+

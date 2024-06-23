@@ -1,0 +1,8 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+G:/lab4/lab4.sim/sim_1/behav/xsim/glbl.v,1544155482,verilog,,,,glbl,,,,,,,,
+G:/lab4/seg2digit_synth.v,1666059416,verilog,,G:/lab4/vsevenseg.v,,LUT6;MUXF7;OBUF;seg2digit,,,,,,,,
+G:/lab4/vsevenseg.v,1666064058,verilog,,G:/lab4/vsevenseg_tb.v,,vsevenseg,,,,,,,,
+G:/lab4/vsevenseg_tb.v,1666064052,verilog,,,,vsevenseg_tb,,,,,,,,

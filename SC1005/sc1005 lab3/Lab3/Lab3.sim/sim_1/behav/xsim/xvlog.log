@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Lab3/vsevenseg.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vsevenseg
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Lab3/vsevenseg_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vsevenseg_tb
